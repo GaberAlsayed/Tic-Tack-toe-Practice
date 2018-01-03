@@ -1,0 +1,28 @@
+body{
+  background-color:black;
+  background-image:url("https://images.unsplash.com/photo-1504228218423-a8ef68ca2c3a?auto=format&fit=crop&w=1000&q=80");
+  background-repeat:no-repeat;
+   background-attachment: fixed;
+    background-position: center; 
+  
+}
+.btn{
+  font-size:20px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:red;
+  text-align:center;
+  
+}
+#turnX{
+  margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: -10px; 
+}
+#turnO{
+ margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 10px;
+}
